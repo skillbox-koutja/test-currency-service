@@ -7,15 +7,6 @@ class Currency implements CurrencyInterface
     /** @var Id */
     private $_id;
 
-    /** @var NumCode */
-    private $_numCode;
-
-    /** @var CharCode */
-    private $_charCode;
-
-    /** @var Nominal */
-    private $_nominal;
-
     /** @var Name */
     private $_name;
 
